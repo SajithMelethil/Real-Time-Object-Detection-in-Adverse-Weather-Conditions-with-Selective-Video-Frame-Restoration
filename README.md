@@ -30,11 +30,18 @@ autonomous navigation, smart surveillance, and edge-based monitoring systems
 This is final video frames after passing through the pipeline from real time scenarioes, More development will be included in the future.
 
 Our frame filterig results
-![clear_results](https://github.com/user-attachments/assets/a4a4b90a-71c5-4911-9c13-3a1661bf4ab0)
-![lightlt_results](https://github.com/user-attachments/assets/615f3199-4c60-4c61-a665-f2f17c6c8d87)
-![severe_results](https://github.com/user-attachments/assets/4addbefe-b2cd-4180-b64e-ac109491f0e2)
+
+![clear_results](https://github.com/user-attachments/assets/a4a4b90a-71c5-4911-9c13-3a1661bf4ab0) Clear Frames
+
+![lightlt_results](https://github.com/user-attachments/assets/615f3199-4c60-4c61-a665-f2f17c6c8d87) Lightly severe Frames
+
+![severe_results](https://github.com/user-attachments/assets/4addbefe-b2cd-4180-b64e-ac109491f0e2) Severe Frames
+
+
 
 Final video sample frames
+
+
 <img width="1249" height="255" alt="frame_samples" src="https://github.com/user-attachments/assets/12973c69-3c67-4db8-a517-0f2f69d08560" />
 <img width="809" height="255" alt="frame_samples_1" src="https://github.com/user-attachments/assets/12b7c01b-bc08-4b06-9d93-3acc0857a39d" />
 <img width="403" height="255" alt="frame_samples_2" src="https://github.com/user-attachments/assets/743c922b-98d6-4e39-b7e6-9f4ea8804214" />
