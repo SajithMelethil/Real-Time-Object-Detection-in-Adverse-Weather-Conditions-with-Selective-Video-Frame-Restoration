@@ -1,0 +1,2 @@
+# Real-Time-Object-Detection-in-Adverse-Weather-Conditions-with-Selective-Video-Frame-Restoration
+A real-time, weather-robust detection pipeline that restores only critical frames. YOLOv8n flags object frames; sharpness/contrast scores rate degradation. Severely degraded frames go to WeatherFormer; all then to YOLOv11. A merger preserves temporal coherence. On All-Weather and traffic video: higher accuracy with lower compute—edge-ready.
