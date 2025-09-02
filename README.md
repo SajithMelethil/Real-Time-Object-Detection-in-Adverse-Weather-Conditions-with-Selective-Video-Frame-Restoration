@@ -1,6 +1,10 @@
 # Real-Time-Object-Detection-in-Adverse-Weather-Conditions-with-Selective-Video-Frame-Restoration
 Adverse weather conditions such as rain, fog, and snow significantly degrade the
-performance of real-time object detection systems by reducing image clarity, introducing
+performance of real-time 
+
+
+
+object detection systems by reducing image clarity, introducing
 occlusions, and distorting semantic features. Traditional approaches to handle such scenarios
 often rely on uniform restoration of all video frames using deep learning models, which, while
 improving visibility, incur considerable computational costs and latency, making them
@@ -22,3 +26,7 @@ Experimental evaluation using both the curated All-Weather dataset and real-worl
 surveillance footage demonstrates that the proposed framework effectively balances restoration
 quality, detection accuracy, and system efficiency, making it highly suitable for deployment in
 autonomous navigation, smart surveillance, and edge-based monitoring systems
+
+This is final video after passing through the pipeline from real time scenarioes, More development will be included in the future.
+
+https://github.com/user-attachments/assets/a638cfda-908d-4425-8936-3cc12405f97c
