@@ -29,4 +29,8 @@ autonomous navigation, smart surveillance, and edge-based monitoring systems
 
 This is final video after passing through the pipeline from real time scenarioes, More development will be included in the future.
 
-https://github.com/user-attachments/assets/a638cfda-908d-4425-8936-3cc12405f97c
+
+
+https://github.com/user-attachments/assets/46996c98-5dbc-4a75-9c5f-6b1b387f2c51
+
+
